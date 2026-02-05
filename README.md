@@ -14,7 +14,7 @@ The project focuses on:
 
 ## 📂 Project Structure
 
-GenAI-Hackathon/
+GenAI-Internship/
 │
 ├── Genai_Hackthon_test_(1).ipynb   # Main Jupyter Notebook  
 ├── orders.csv                      # Orders dataset  
