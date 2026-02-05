@@ -1,7 +1,7 @@
 # GenAI Hackathon Test Project
 
 ## 📌 Project Overview
-This project was developed as part of the GenAI Hackathon.  
+This project was developed as part of the GenAI Internship.  
 It demonstrates data handling, database operations, and Python-based processing using Jupyter Notebook.
 
 The project focuses on:
