@@ -16,6 +16,7 @@ The project focuses on:
 
 GenAI-Internship/
 │
+|
 ├── Genai_Hackthon_test_(1).ipynb   # Main Jupyter Notebook  
 ├── orders.csv                      # Orders dataset  
 ├── users.json                      # Users dataset  
