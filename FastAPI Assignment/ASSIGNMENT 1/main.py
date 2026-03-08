@@ -16,13 +16,13 @@ products = [
 ]
 
 
-# Base endpoint
+
 @app.get("/")
 def home():
     return {"message": "Welcome to My E-commerce Store API"}
 
 
-# Show all products
+
 @app.get("/products")
 def get_products():
     return {
@@ -93,7 +93,7 @@ def search_products(keyword: str):
     }
 
 
-# ⭐ Bonus — Cheapest and Most Expensive Product
+#  Bonus- Cheapest and Most Expensive Product
 @app.get("/products/deals")
 def get_deals():
 
@@ -103,4 +103,5 @@ def get_deals():
     return {
         "best_deal": cheapest,
         "premium_pick": expensive
+
     }
