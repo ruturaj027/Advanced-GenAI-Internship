@@ -124,7 +124,6 @@ def apply_discount(category: str, discount_percent: int):
     }
 
 
-# GET product by ID
 @app.get("/products/{product_id}")
 def get_product(product_id: int):
 
