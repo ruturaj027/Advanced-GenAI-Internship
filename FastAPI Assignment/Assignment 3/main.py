@@ -2,7 +2,6 @@ from fastapi import FastAPI, HTTPException
 
 app = FastAPI()
 
-# Initial Product List
 products = [
     {"id": 1, "name": "Wireless Mouse", "price": 499, "category": "Electronics", "in_stock": True},
     {"id": 2, "name": "Notebook", "price": 99, "category": "Stationery", "in_stock": True},
