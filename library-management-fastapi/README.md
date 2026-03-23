@@ -37,5 +37,3 @@ This project includes the following FastAPI features:
 - Pydantic
 
 ---
-
-## 📂 Project Structure
