@@ -3,9 +3,8 @@
 This project builds a robust NLP preprocessing pipeline.
 
 ## Features
- Removes URLs, numbers
- Handles repeated characters
- Token cleaning
+ Removes URLs, numbers, Handles repeated characters,
+ Token cleaning,
  Frequency analysis
 
 ## How to Run
