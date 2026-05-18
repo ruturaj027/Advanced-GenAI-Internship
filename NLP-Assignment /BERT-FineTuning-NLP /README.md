@@ -1,4 +1,4 @@
-# BERT Fine-Tuning on IMDB Movie Reviews Dataset
+# BERT Fine-Tuning on IMDB Dataset
 
 ## Project Overview
 This project demonstrates fine-tuning of the BERT (Bidirectional Encoder Representations from Transformers) model on the IMDB Movie Reviews dataset for sentiment classification.
@@ -6,17 +6,16 @@ This project demonstrates fine-tuning of the BERT (Bidirectional Encoder Represe
 The project was completed as part of the Data Science Internship – February 2026 NLP Assignment.
 
 ## Objective
-- Understand BERT architecture
-- Perform text preprocessing
-- Apply tokenization using Hugging Face tokenizer
-- Fine-tune a pre-trained BERT model
-- Evaluate model performance using classification metrics
+- Understand BERT for text classification
+- Perform tokenization using Hugging Face tokenizer
+- Fine-tune pre-trained BERT model
+- Evaluate model using classification metrics
 
 ## Dataset
 Dataset Used:
 IMDB Movie Reviews Dataset
 
-Source:
+Dataset Link:
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 ## Technologies Used
@@ -33,12 +32,11 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 1. Data Loading
 2. Data Preprocessing
 3. Train-Test Split
-4. Tokenization
-5. BERT Model Loading
-6. Fine-Tuning
+4. Tokenization using BERT Tokenizer
+5. Model Building
+6. Fine-Tuning BERT
 7. Model Evaluation
-8. Confusion Matrix Visualization
-9. Experimental Comparison
+8. Experiments and Comparison
 
 ## Model Used
 - bert-base-uncased
@@ -55,18 +53,27 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 Freeze all BERT layers and train only classifier layer.
 
 ### Experiment 2
-Fine-tune the last two layers of BERT.
+Fine-tune last 2 layers of BERT and compare performance.
 
 ## Results
-The model achieved good performance in sentiment classification using fine-tuned BERT architecture.
+The BERT model achieved good performance in sentiment classification on IMDB movie reviews.
 
 ## Repository Structure
 BERT-FineTuning-NLP/
--bert_finetuning.ipynb
--README.md
--requirements.txt
--dataset/
+│
+├── bert_finetuning.ipynb
+├── README.md
+├── requirements.txt
+└── dataset/
 
 ## Conclusion
-This project helped in understanding transformer-based NLP models, tokenization, fine-tuning techniques, and performance evaluation for text classification tasks.
+This project helped in understanding transformer-based NLP models and practical implementation of BERT fine-tuning for sentiment analysis tasks.
 
+## Author
+Ruturaj Tawde
+
+LinkedIn:
+https://linkedin.com/in/ruturaj-tawde-a9b054292
+
+GitHub:
+https://github.com/ruturaj027
