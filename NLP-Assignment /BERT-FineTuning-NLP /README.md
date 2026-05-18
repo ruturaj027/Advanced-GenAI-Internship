@@ -60,11 +60,10 @@ The BERT model achieved good performance in sentiment classification on IMDB mov
 
 ## Repository Structure
 BERT-FineTuning-NLP/
-│
-├── bert_finetuning.ipynb
-├── README.md
-├── requirements.txt
-└── dataset/
+ - bert_finetuning.ipynb
+ - README.md
+ - requirements.txt
+ - dataset/
 
 ## Conclusion
 This project helped in understanding transformer-based NLP models and practical implementation of BERT fine-tuning for sentiment analysis tasks.
