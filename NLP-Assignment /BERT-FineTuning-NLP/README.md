@@ -39,14 +39,14 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 8. Experiments and Comparison
 
 ## Model Used
-- bert-base-uncased
+ bert-base-uncased
 
 ## Evaluation Metrics
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Confusion Matrix
+1.Accuracy
+2.Precision
+3.Recall
+4.F1 Score
+5.Confusion Matrix
 
 ## Experiments Performed
 ### Experiment 1
@@ -60,12 +60,10 @@ The BERT model achieved good performance in sentiment classification on IMDB mov
 
 ## Repository Structure
 BERT-FineTuning-NLP/
-
-│
-├── bert_finetuning.ipynb
-├── README.md
-├── requirements.txt
-└── dataset/
+ - bert_finetuning.ipynb
+ - README.md
+ - requirements.txt
+ - dataset/
 
 ## Conclusion
 This project helped in understanding transformer-based NLP models and practical implementation of BERT fine-tuning for sentiment analysis tasks.
