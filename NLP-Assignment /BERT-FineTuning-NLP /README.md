@@ -62,11 +62,10 @@ The model achieved good performance in sentiment classification using fine-tuned
 
 ## Repository Structure
 BERT-FineTuning-NLP/
-│
-├── bert_finetuning.ipynb
-├── README.md
-├── requirements.txt
-└── dataset/
+-bert_finetuning.ipynb
+-README.md
+-requirements.txt
+-dataset/
 
 ## Conclusion
 This project helped in understanding transformer-based NLP models, tokenization, fine-tuning techniques, and performance evaluation for text classification tasks.
