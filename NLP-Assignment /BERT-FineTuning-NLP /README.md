@@ -39,14 +39,14 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 8. Experiments and Comparison
 
 ## Model Used
-- bert-base-uncased
+ bert-base-uncased
 
 ## Evaluation Metrics
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Confusion Matrix
+1.Accuracy
+2.Precision
+3.Recall
+4.F1 Score
+5.Confusion Matrix
 
 ## Experiments Performed
 ### Experiment 1
