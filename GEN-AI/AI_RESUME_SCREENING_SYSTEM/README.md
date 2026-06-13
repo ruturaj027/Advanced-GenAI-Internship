@@ -206,7 +206,6 @@ Every `.invoke()` call is automatically recorded in LangSmith.
 **Ruturaj Tawde**
 
 * B.E. Artificial Intelligence & Data Science
-* Babasaheb Naik College of Engineering, Pusad
 * Sant Gadge Baba Amravati University
 
 ### Connect
