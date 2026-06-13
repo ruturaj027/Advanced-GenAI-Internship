@@ -143,7 +143,7 @@ LangSmith Tracing
 
 ```json
 {
-  "candidate": "Priya Sharma",
+  "candidate": "Rahul Sharma",
   "score": 92,
   "matched_skills": [
     "Python",
@@ -203,7 +203,7 @@ Every `.invoke()` call is automatically recorded in LangSmith.
 
 ## 👨‍💻 Author
 
-**Ruturaj Gajanan Tawde**
+**Ruturaj Tawde**
 
 * B.E. Artificial Intelligence & Data Science
 * Babasaheb Naik College of Engineering, Pusad
